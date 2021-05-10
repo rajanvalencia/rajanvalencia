@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanvalencia&count_private=true&show_icons=true&theme=monokai" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanvalencia&layout=compact&count_private=true&show_icons=true&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanvalencia&count_private=true&show_icons=true&theme=monokai" />
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanvalencia&theme=dark" alt="rajanvalencia" /></p>
