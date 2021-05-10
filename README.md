@@ -5,7 +5,7 @@
 - 📫 Reach me by this [Email address](mailto:rajanvalencia@au.com)
 
 Language and Tools:
-[!Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![Javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
