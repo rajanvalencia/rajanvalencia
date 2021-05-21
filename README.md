@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajanvalencia" target="blank"><img src="https://img.shields.io/twitter/follow/rajanvalencia?logo=twitter&style=for-the-badge" alt="rajanvalencia" /></a> </p>
 
-- 🔭 I’m currently working on as CEO at **[MultiYouth](https://multiyouth.com)**
+- 🔭 I’m currently working on **[MultiYouth](https://multiyouth.com)** as CEO
 
 - 🌱 I’m currently learning **React, NextJs, Spring Boot, AWS**
 
