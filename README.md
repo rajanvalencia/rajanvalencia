@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajan Valencia Yamazaki</h1>
+<h1 align="center">Hi 👋, I'm Yamazaki Rajan Valencia</h1>
 <h3 align="center">A passionate software engineer living in Japan</h3>
 
 <p align="left"> <a href="https://twitter.com/rajanvalencia" target="blank"><img src="https://img.shields.io/twitter/follow/rajanvalencia?logo=twitter&style=for-the-badge" alt="rajanvalencia" /></a> </p>
