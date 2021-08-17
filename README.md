@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on as CEO at **[MultiYouth](https://multiyouth.com)**
 
-- 🌱 I’m currently learning **React, NextJs, Spring Boot, AWS**
+- 🌱 I’m currently learning **React, NextJs, Spring Boot, AWS, GCP**
 
 - 📫 Reach me at **valenciarajanzamora@gmail.com**
 
