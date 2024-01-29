@@ -23,8 +23,6 @@
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width="40" height="40" title="python" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanvalencia&show_icons=true&locale=en&layout=compact" />
-
 <h3 align="left">Frontend Development:</h3>
 
 <p align="left">
