@@ -3,10 +3,6 @@
 <h5 align="center">Hi, I'm just another softwre developer living in Japan😆</h5>
 <br />
 
-<h2 align="left">Some Facts About Me</h2>
-
-- 🔭 I’m currently working on [CyberZ](https://cyber-z.co.jp/)
-
 <h2 align="left">Skillset</h2>
 
 <h3 align="left">Programming Languages:</h3>
