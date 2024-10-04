@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Yamazaki Rajan Valencia</h1>
 
-<h5 align="center">Hi, I'm just another softwre developer living in Japan😆</h5>
+<h5 align="center">Hi, I'm just another software developer living in Japan😆</h5>
 <br />
 
 <h2 align="left">Skillset</h2>
